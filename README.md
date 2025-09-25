@@ -1,6 +1,6 @@
 # MarcTCruz.github.io
 
-Development of a developer
+Development of a developer.
 
 # Astro Starter Kit: Basics
 
